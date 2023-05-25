@@ -1,0 +1,30 @@
+*   {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #F9ED69;
+    color: #B83B5E;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+body{
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1,h2,ul,p,h3{
+    text-align: center;
+}
+.menulinks{
+    margin: 11%;
+}
+    
+ul li{
+    list-style-position: inside;
+}
+span {
+    content: "\00A9";
+    float: right;
+  }
+.urunaciklamasi{
+    text-align: left;
+}
